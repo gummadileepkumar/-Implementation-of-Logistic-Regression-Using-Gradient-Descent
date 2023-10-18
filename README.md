@@ -109,44 +109,33 @@ np.mean(predict(res.x,X)==y)
 ```
 
 ## Output:
-
-![270178055-4c68e40e-3945-4836-8d82-06c65dd83ef5](https://github.com/PriyankaAnnadurai/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118351569/4903db55-4842-42e4-987e-cec0ace878e4)
-
+### Array of X:
 
 
-![270178066-681774f8-6006-4015-ab83-4d0ef73b56b9](https://github.com/PriyankaAnnadurai/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118351569/8b54bce9-0d54-4560-9768-0e2c1c682851)
+### Array of Y:
 
 
-
-![270178076-95f47b4e-8f31-4b66-acef-8c52928a190d](https://github.com/PriyankaAnnadurai/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118351569/1bc0fe62-269a-4f78-b6c8-969293a6b29c)
-
+### Score Graph:
 
 
-![270178086-a146f0fd-7ae3-421f-aed3-843b4b6bccd0](https://github.com/PriyankaAnnadurai/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118351569/426970ab-a3eb-4584-a5de-4d05c41ad825)
+### Sigmoid Function Graph:
 
 
+### X_train_grad Value:
 
-![270178097-ca1e5830-e845-4ceb-92d1-48c9584d3d99](https://github.com/PriyankaAnnadurai/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118351569/d8a88daf-6410-482b-9aaa-8cc02e674fcc)
-
-
-
-![270178104-9e211658-4dad-48af-99f8-a855eb5d4ad1](https://github.com/PriyankaAnnadurai/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118351569/89e30d97-fc7b-4370-9df7-1757b3a22d07)
+### Y_train_grad Value:
 
 
-
-![270178116-e4bc03b8-1ac6-4797-87c7-74ea6579db22](https://github.com/PriyankaAnnadurai/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118351569/69e18e12-9fd3-4394-b94d-6559206ba9b7)
-
+### Print res_X:
 
 
-![270178123-ae9dfe14-cd80-4953-9f5e-074d9b85ecf9](https://github.com/PriyankaAnnadurai/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118351569/d9b28c22-f3be-4176-b115-7c003f831ed2)
+### Decision boundary:
 
 
-
-![270178135-6e2cdfec-28fb-4bca-b76f-a07908d9145d](https://github.com/PriyankaAnnadurai/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118351569/d4fdaf1f-0242-49ef-92bb-38899754cd96)
-
+### Probability Value:
 
 
-![270178148-ccf62739-379f-4b62-8634-98ee89693767](https://github.com/PriyankaAnnadurai/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118351569/eb7aacb6-9f8c-4795-ab98-b015c60456c6)
+### Prediction Value of Mean:
 
 
 ## Result:
