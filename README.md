@@ -1,4 +1,3 @@
-![ml_5 8](https://github.com/gummadileepkumar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118707761/49303939-55d1-4976-9f4b-1f9668c62af9)# Implementation-of-Logistic-Regression-Using-Gradient-Descent
 
 ## AIM:
 To write a program to implement the the Logistic Regression Using Gradient Descent.
