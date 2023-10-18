@@ -1,4 +1,4 @@
-# Implementation-of-Logistic-Regression-Using-Gradient-Descent
+![ml_5 8](https://github.com/gummadileepkumar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118707761/49303939-55d1-4976-9f4b-1f9668c62af9)# Implementation-of-Logistic-Regression-Using-Gradient-Descent
 
 ## AIM:
 To write a program to implement the the Logistic Regression Using Gradient Descent.
@@ -111,31 +111,42 @@ np.mean(predict(res.x,X)==y)
 ## Output:
 ### Array of X:
 
+![ml_5 1](https://github.com/gummadileepkumar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118707761/13055b72-9d8c-404b-b88e-a163458f9e4a)
 
 ### Array of Y:
+![ml_5 2](https://github.com/gummadileepkumar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118707761/84ea5d29-9db8-4543-8ca2-ab611fbdf51d)
 
 
 ### Score Graph:
+![ml_5 3](https://github.com/gummadileepkumar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118707761/c48485fe-8d74-4234-93d9-489709a493b7)
 
 
 ### Sigmoid Function Graph:
+![ml_5 4](https://github.com/gummadileepkumar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118707761/7bdc1d15-60a1-436e-ad8a-41fede916d95)
 
 
 ### X_train_grad Value:
+![ml_5 5](https://github.com/gummadileepkumar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118707761/2d876491-844a-4bf6-af54-37006ebaf45b)
 
 ### Y_train_grad Value:
+![ml_5 6](https://github.com/gummadileepkumar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118707761/2da95d30-a01e-4503-950c-c1b2c392e904)
 
 
 ### Print res_X:
+![ml_5 7](https://github.com/gummadileepkumar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118707761/f1072a53-df3b-40b3-938d-8ed42e337921)
+
 
 
 ### Decision boundary:
+![ml_5 8](https://github.com/gummadileepkumar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118707761/41b59584-0621-4b3b-908f-dee77657daed)
 
 
 ### Probability Value:
+![ml_5 9](https://github.com/gummadileepkumar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118707761/e2e2af67-9d55-476c-b615-746c82151bcc)
 
 
 ### Prediction Value of Mean:
+![ml_5 10](https://github.com/gummadileepkumar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118707761/f907c7e2-6796-484a-8106-a173b7d7ac46)
 
 
 ## Result:
